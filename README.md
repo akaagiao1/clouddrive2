@@ -45,12 +45,12 @@ Mac、Linux、OpenWRT等 在「终端」运行下面的「命令」
 不知道在哪里运行这些命令？[点击查看](#在哪运行)
 
 ```shell
-curl -fsSL "https://gh-proxy.com/https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2.sh" | bash -s install
+curl -fsSL "https://github.com/akaagiao1/clouddrive2/raw/main/cd2.sh" | bash -s install
 ```
 
 ### 卸载命令
 ```shell
-curl -fsSL "https://gh-proxy.com/https://raw.githubusercontent.com/sublaim/clouddrive2/main/cd2.sh" | bash -s uninstall
+curl -fsSL "https://github.com/akaagiao1/clouddrive2/raw/main/cd2.sh" | bash -s uninstall
 ```
 
 ## 安卓
